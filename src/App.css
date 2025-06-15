@@ -1,16 +1,4 @@
-.bug {
-  color: red;
-}
 body {
-  margin: 50px;
-  display: flex;
-  gap: 20px;
-}
-.col {
-  display: flex;
-  flex-direction: column;
-}
-.dark {
-  color: aliceblue;
-  background-color: black;
+  padding: 0;
+  margin: 0;
 }
